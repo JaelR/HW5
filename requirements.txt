@@ -1,0 +1,6 @@
+streamlit>=1.39
+pandas>=2.0
+numpy>=1.24
+altair>=5.0
+matplotlib>=3.7
+statsmodels==0.15.0
